@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430846353495",
+    "project_id": "resumedb-2a0ab",
+    "storage_bucket": "resumedb-2a0ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430846353495:android:40737f39054383057c0312",
+        "android_client_info": {
+          "package_name": "com.example.lokeshwarjakhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430846353495-8ufn2b2qv5vte9t889nt0mvepba8144g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYKdY3oULAQRQCWP1xiMItssAuqwk3uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430846353495-8ufn2b2qv5vte9t889nt0mvepba8144g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
